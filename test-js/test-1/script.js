@@ -9,4 +9,6 @@ var wb = {
     black: "#000000"
 };
 
-var colors = Object.assign(rgb, wb);
+var colors ={
+};
+ Object.assign(colors,rgb,wb);
