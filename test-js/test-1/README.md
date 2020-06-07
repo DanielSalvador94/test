@@ -10,29 +10,4 @@ Para responder a este test encontrarás un archivo llamado test.js en esta misma
 
 PS: No es estrictamente necesario tener Internet Explorer para poder identificar y/o resolver el bug.
 
-<h2>Solucion</h2>
-1º EJERCICIO
------------------------------------------------------------------------------------------------------------
-1º VARIABLE { red: "#FF0000", green: "#00FF00", blue: "#0000FF", white: "#FFFFFF", black: "#000000" } -> Es decir tendra mergeados los colores de Rgb y de wb.
-2º VARIABLE { white: "#FFFFFF", black: "#000000" } -> Es decir mantendrá los valores iniciales.
-3º VARIABLE { red: "#FF0000", green: "#00FF00", blue: "#0000FF", white: "#FFFFFF", black: "#000000" } -> Es decir tendrá la combinación de Rgb y Wb.
----------------------------------------------------------------------------------------------------------
-2º EJERCICIO
-var colors ={
-};
- Object.assign(colors,rgb,wb);
-----------------------------------------------------------------------------------------------------------
-3º EJERCICiO
--La funcion Assign no es compatible con internet Explorer, asi que se usará la funcion extend de Jquery que es compatible con el mismo.
--var rgb = {
-    red: "#FF0000",
-    green: "#00FF00",
-    blue: "#0000FF"
-};
-
-var wb = {
-    white: "#FFFFFF",
-    black: "#000000"
-};
-
-var colors = $.extend( rgb, wb );
+<h2>La Solucion se adjuntará en un txt en la misma carpeta</h2>
