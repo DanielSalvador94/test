@@ -16,6 +16,6 @@ function greet($name) {
 </ul>
 <h2>Solucion</h2>
 <ul>
-<li>En la primera Devolverá Hello John.</li>
-<li>En la segunda devolverá Hello John también.</li>
+<li>En la primera Devolverá greet John.</li>
+<li>En la segunda devolverá greet John también.</li>
 </ul>
