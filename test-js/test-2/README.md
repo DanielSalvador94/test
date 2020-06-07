@@ -10,7 +10,7 @@ Sabiendo que el output que buscamos es el que encuentras bajo estas líneas… �
 <li>>3</li>
 <li>>4</li>
 </ul>
-<h2>Solucion</h2>
+<h2>Solución</h2>
 <ul>
 <li>Imprimiría cinco veces el numero 5,Es debido a que dentro del bucle for se declara el indice con var a nivel global</li>
 <li>Una solución seria sustituir la declaracion del indice "var" por "let" de esta manera for (let i = 0; i < 5; i++) limitando asi el alcance de la variable a dentro del bucle y cambiando su valor en cada iteracion</li>
