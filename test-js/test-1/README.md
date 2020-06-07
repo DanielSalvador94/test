@@ -9,5 +9,5 @@ Para responder a este test encontrarás un archivo llamado test.js en esta misma
 
 
 PS: No es estrictamente necesario tener Internet Explorer para poder identificar y/o resolver el bug.
-<h1>Solución>/h1>
+<h1>Solución</h1>
 <h2>La Solucion se adjuntará en un txt en la misma carpeta</h2>
