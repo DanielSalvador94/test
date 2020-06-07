@@ -27,3 +27,5 @@ Para la prueba debe realizar los siguientes pasos:
     <li>Crea al menos un template.</li>
    <li>Para que todo esto funcione, en el template se debe visualizar los datos de la tabla (Usuario).</li>
 </ul>    
+<h2>
+    La solución estara en el repositorio creado solo para Symfony en https://github.com/salvatoremmm/test_Symfony
