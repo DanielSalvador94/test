@@ -30,3 +30,14 @@ AddressId es la clave primaria de esta tabla.
 <h2>Resultado</h2>
 
 FirstName, LastName, City, State
+
+<h2>Solucion</h2>
+<ul>
+<li>
+  SELECT p.FirstName,p.LastName,a.City,a.State
+FROM person as p
+INNER JOIN address as a
+ON a.PersonId = p.PersonId;
+
+  </li>
+</ul>
