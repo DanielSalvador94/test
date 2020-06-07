@@ -14,7 +14,7 @@ function greet($name) {
 <ul>
    <li>Cuál es el resultado que devuelve la función greet en ambos casos(1-2)?</li>
 </ul>
-<h2>Solucion</h2>
+<h2>Solución</h2>
 <ul>
 <li>En la primera Devolverá greet John.</li>
 <li>En la segunda devolverá greet John también.</li>
