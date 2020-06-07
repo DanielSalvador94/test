@@ -1,15 +1,4 @@
-<h1>Test precio.com</h1>
+<h1>Test</h1>
 <ul>
-<li>Este es el repositorio para la prueba técnica de precio.com. En cada una de las carpetas que separan los test encontrarás un fichero README.md que explica más detalladamente qué es lo que se pide, así como el código asociado a la prueba.</li>
+<li>Este es el repositorio dónde subiré las soluciones del test excepto el de Symfony que irá en este repositorio https://github.com/salvatoremmm/test_Symfony</li>
   </ul>
-
-<h2>Lo que valoramos</h2>
-<ul>
-<li>Buenas prácticas de desarollo</li>
-<li>Testing</li>
-<li>Conocimiento de JavaScript, css, webpack, symfony</li>
-
-<h2>Presentación de la prueba</h2>
-<ul>
-<li>La prueba puede subirse a algún repositorio público al que podamos tener acceso desde el equipo de desarrollo de Precio.com. (Preferiblemente github.com)</li>
-</ul>  
